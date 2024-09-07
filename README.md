@@ -1,6 +1,7 @@
-# FashionLlama: An app demonstrating Ollama tool-calling with Llama 3.1 8B
+# 🌦️👗👕 FashionLlama
 
-This application provides real-time weather information for any city using WeatherAPI.com and also features a fashion consultant agent by utilizing Ollama with function calling. It recommends appropriate, family-friendly clothing based on current weather conditions.
+This application uses Ollama and local model Llama 3.1 8B to provide real-time weather information and fashion advice using an AI agent.
+The app demonstrates use of Ollama function calling to use WeatherAPI.com. It recommends appropriate, family-friendly clothing based on current weather conditions.
 
 ## Features
 
